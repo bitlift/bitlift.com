@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>badges/googlepodcasts-badge</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="badges/googlepodcasts-badge" transform="translate(1.000000, 0.500000)" fill-rule="nonzero">
+            <g id="Group" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="0.5">
+                <g id="Rectangle">
+                    <rect x="0" y="0" width="43" height="43" rx="8"></rect>
+                </g>
+            </g>
+            <g id="_logo_Podcasts_192px" transform="translate(7.000000, 6.500000)">
+                <polygon id="Shape" fill="#FAB908" points="12.25 8.90909091 12.25 13.1520455 12.25 14.8479545 12.25 19.0909091 15.75 19.0909091 15.75 14.8479545 15.75 13.1520455 15.75 8.90909091"></polygon>
+                <circle id="Oval" fill="#0066D9" cx="1.75" cy="13.0454545" r="1.75"></circle>
+                <circle id="Oval" fill="#0066D9" cx="1.75" cy="14.9545455" r="1.75"></circle>
+                <rect id="Rectangle-path" fill="#0066D9" x="0" y="13.0454545" width="3.5" height="1.90909091"></rect>
+                <circle id="Oval" fill="#4285F4" cx="26.25" cy="14.9545455" r="1.75"></circle>
+                <circle id="Oval" fill="#4285F4" cx="26.25" cy="13.0454545" r="1.75"></circle>
+                <rect id="Rectangle-path" fill="#4285F4" transform="translate(26.250000, 14.000000) rotate(180.000000) translate(-26.250000, -14.000000) " x="24.5" y="13.0454545" width="3.5" height="1.90909091"></rect>
+                <circle id="Oval" fill="#EA4335" cx="7.79545455" cy="18.7727273" r="1.75"></circle>
+                <circle id="Oval" fill="#EA4335" cx="7.79545455" cy="20.6818182" r="1.75"></circle>
+                <rect id="Rectangle-path" fill="#EA4335" x="6.04545455" y="18.7727273" width="3.5" height="1.90909091"></rect>
+                <circle id="Oval" fill="#EA4335" cx="7.79545455" cy="7.31818182" r="1.75"></circle>
+                <circle id="Oval" fill="#EA4335" cx="7.79545455" cy="13.5227273" r="1.75"></circle>
+                <rect id="Rectangle-path" fill="#EA4335" x="6.04545455" y="7.31818182" width="3.5" height="6.24431818"></rect>
+                <circle id="Oval" fill="#34A853" cx="20.2045455" cy="9.22727273" r="1.75"></circle>
+                <circle id="Oval" fill="#34A853" cx="20.2045455" cy="7.31818182" r="1.75"></circle>
+                <rect id="Rectangle-path" fill="#34A853" transform="translate(20.204545, 8.272727) rotate(180.000000) translate(-20.204545, -8.272727) " x="18.4545455" y="7.31818182" width="3.5" height="1.90909091"></rect>
+                <circle id="Oval" fill="#FAB908" cx="14" cy="3.65909091" r="1.75"></circle>
+                <circle id="Oval" fill="#FAB908" cx="14" cy="1.75" r="1.75"></circle>
+                <rect id="Rectangle-path" fill="#FAB908" transform="translate(14.000000, 2.704545) rotate(180.000000) translate(-14.000000, -2.704545) " x="12.25" y="1.75" width="3.5" height="1.90909091"></rect>
+                <circle id="Oval" fill="#FAB908" cx="14" cy="26.25" r="1.75"></circle>
+                <circle id="Oval" fill="#FAB908" cx="14" cy="24.3409091" r="1.75"></circle>
+                <rect id="Rectangle-path" fill="#FAB908" transform="translate(14.000000, 25.295455) rotate(180.000000) translate(-14.000000, -25.295455) " x="12.25" y="24.3409091" width="3.5" height="1.90909091"></rect>
+                <circle id="Oval" fill="#34A853" cx="20.2045455" cy="20.6818182" r="1.75"></circle>
+                <circle id="Oval" fill="#34A853" cx="20.2045455" cy="14.4772727" r="1.75"></circle>
+                <rect id="Rectangle-path" fill="#34A853" transform="translate(20.204545, 17.579545) rotate(180.000000) translate(-20.204545, -17.579545) " x="18.4545455" y="14.4772727" width="3.5" height="6.20454545"></rect>
+                <circle id="Oval" fill="#FAB908" cx="14" cy="8.90909091" r="1.75"></circle>
+                <circle id="Oval" fill="#FAB908" cx="14" cy="19.0909091" r="1.75"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

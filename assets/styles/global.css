@@ -1,0 +1,51 @@
+.super-navbar{
+	border-image-slice: 1;
+	border-image-source: linear-gradient( to left, #00d6ff 0, #486af7 33.3%, #9000f1 66.6%);
+	border-bottom: 2px solid;
+}
+
+.super-navbar__content{
+	width: var(--layout-max-width);
+	margin: auto;
+}
+
+.super-navbar__cta,
+.super-navbar__item{
+	font-weight: 800;
+	text-transform: uppercase;
+	opacity: unset;
+}
+
+.super-navbar__cta:hover{
+	background: #9000f1;
+	opacity: unset;
+}
+
+.super-navbar__item:hover{
+	color: #9000f1;
+}
+
+.super-navbar__search{
+  opacity: unset;
+}
+
+.super-navbar__search svg{
+  stroke: #fff;
+}
+
+.super-navbar__search svg:hover{
+  stroke: #9000f1;
+}
+
+.notion-header__cover.no-cover{
+	height: 70px;
+}
+
+blockquote.notion-quote{
+	border-image-slice: 1;
+	border-image-source: linear-gradient( to bottom, #00d6ff 0, #486af7 33.3%, #9000f1 66.6%);
+}
+
+div[id^="buzzsprout-player"]{
+  margin-top: 10px;
+}
